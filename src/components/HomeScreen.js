@@ -61,7 +61,7 @@ const currentCard = {
 	3: (
 		<Card
 			title='Our First Conversation'
-			content='Months later, a text from you changed everything. Despite my academic struggles, you reached out for help with a subject, believing I had connections. Our initial conversation, based on a misunderstanding, slowly turned into frequent chats, covering everything and anything. Those messages became the highlight of my days, drawing me closer to you with each word.'
+			content='Months later, a text from you changed everything. You reached out for help with a subject, believing I had connections. Our initial conversation, based on a misunderstanding, slowly turned into frequent chats, covering everything and anything. Those messages became the highlight of my days, drawing me closer to you with each word.'
 			images={[card3Image]}
 		/>
 	),
